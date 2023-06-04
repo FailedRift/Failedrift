@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ikenna Okonkwo and I am a geologist and software developer.
+My name is Ikenna Okonkwo and I am a geologist and aspiring software developer.
 
 I'm currently learning Python for the Geospatial Data Science and Backend Software Development using Django
 I also work on digital maps using GIS analysis and design tools as well the basic Frontend stack. 
